@@ -79,6 +79,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://cameronhighlandstour.com",
   },
+  icons: {
+    icon: "/favicons/favicon.ico",
+    shortcut: "/favicons/favicon.ico",
+    apple: "/favicons/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({

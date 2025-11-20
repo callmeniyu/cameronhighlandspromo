@@ -41,7 +41,6 @@ export default function HomePage() {
   const galleryImages = [
     "/images/tour1.jpg",
     "/images/tour2.jpg",
-    "/images/tour3.jpg",
     "/images/tour4.jpg",
     "/images/tour5.jpg",
     "/images/tour6.jpg",
